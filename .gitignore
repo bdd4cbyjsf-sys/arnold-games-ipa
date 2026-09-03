@@ -1,0 +1,8 @@
+.DS_Store
+xcuserdata/
+Build/
+build/
+*.xcuserstate
+DerivedData/
+usymtool
+usymtoolarm64
